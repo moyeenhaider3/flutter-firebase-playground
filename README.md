@@ -5,6 +5,13 @@ A sample Flutter project integrating Firebase Core, Firebase Analytics, and Fire
 - Freshers: step-by-step learning guide
 - Experienced devs: ready-to-adapt integration template
 
+## Demo & Detailed Guide
+
+- Project video: [ffp.mp4](./ffp.mp4)
+- Detailed Medium article: [Build Push Notifications (FCM) and Analytics into your Flutter app — A practical, step-by-step guide](https://medium.com/@moyeen_haider/build-push-notifications-fcm-and-analytics-into-your-flutter-app-a-practical-step-by-step-guide-31064d665ddd)
+
+<video src="./ffp.mp4" controls width="640" style="max-width:100%;"></video>
+
 ## Project Goals
 
 - Initialize Firebase (Core) on app start
