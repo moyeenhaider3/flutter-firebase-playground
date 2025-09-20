@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "93729394583",
+    "project_id": "flutter-firebase-playgro-58337",
+    "storage_bucket": "flutter-firebase-playgro-58337.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:93729394583:android:b860a423da5a10f7ab7ed2",
+        "android_client_info": {
+          "package_name": "com.example.flutter_firebase_playground"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDXgnASNE6nim-G1b8CYstIohzRUgM2lro"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
